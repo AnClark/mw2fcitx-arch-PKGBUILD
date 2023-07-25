@@ -1,0 +1,10 @@
+# PKGBUILD work directories
+pkg/**
+src/**
+
+# Generated packages
+*.tar*
+
+# Git database directories
+mw2fcitx/**
+
